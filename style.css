@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(193, 202, 204);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    color: red;
+}
+
+#bltheader {
+    color: yellow;
+}
+
+.mainpic {
+    width: 500px;
+    height: auto;
+}
+
+.lasagna-header {
+    color: red;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ingredients-list {
+    background-color:rgb(126, 205, 161)
+}
+
+.point {
+    background-color:rgb(126, 205, 161)
+}
+
+.ul.li.div {
+    background-color:rgb(126, 205, 161)
+}
